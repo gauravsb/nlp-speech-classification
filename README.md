@@ -1,5 +1,4 @@
-# NLP-Project
-### Place for documenting design decisions as we go in order to facilitate the process of writing the report.
+# Speech Classification
 
 # Design Decisions
 ## Preprocessing
