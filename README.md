@@ -1,5 +1,4 @@
 # Speech Classification
-### Place for documenting design decisions as we go in order to facilitate the process of writing the report.
 
 # Design Decisions
 ## Preprocessing
