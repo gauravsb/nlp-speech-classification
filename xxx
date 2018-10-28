@@ -1,0 +1,8 @@
+# read the file
+    text = read_file(fileName)
+
+    # preprocess/cleanup the data
+    text = preprocessing(text)
+
+    # generate hash map of [word => index] & [index => word]
+    token_to_id_map, id_to_token_map, tokenList = token_generation(text)

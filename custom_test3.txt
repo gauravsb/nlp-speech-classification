@@ -1,0 +1,3 @@
+beautiful ugly good bad
+loud quiet bright dim
+light dark white black
